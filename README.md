@@ -1,8 +1,8 @@
 ### Hi there!👋
 
-My name is Taufik Hidayat, and I am currently an Undergraduate Information Technology Education Student at Brawijaya University. I have taken on a role as a practicum assistant, where I am responsible for teaching practicum sessions at the Faculty of Computer Science at Brawijaya University. In addition, I am a highly active and engaged individual, regularly participating in various organizational and committee activities on campus.
+My name is Taufik Hidayat, and I am currently an Undergraduate Information Technology Education Student at the Faculty of Computer Science, Brawijaya University, with a strong interest in education, programming, web development, and related fields. My academic journey has equipped me with a deep understanding of education and computer science. I've successfully applied theoretical knowledge into practical experiences, contributing to various projects in diverse roles. This demonstrates my flexibility and adaptability in different work environments. Through these experiences, I have enhanced my skills and expertise, further solidifying my readiness to excel in various IT-related roles.
 
-I have a passion for technology and am always eager to learn more about the many different aspects of this fascinating field. If you are interested in sympathizing with me, please follow my [Linkedin](https://www.linkedin.com/in/tfkhdyt/) account.
+I have a passion for technology and am always eager to learn more about the many different aspects of this fascinating field. If you are interested in working with me, please follow my [Linkedin](https://www.linkedin.com/in/tfkhdyt/) account.
 
 
 ### Github Statistic
